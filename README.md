@@ -1,52 +1,77 @@
 # CSAT Analytics Dashboard
 
 ## Project Overview
-The CSAT Analytics Dashboard is a Power BI solution designed to analyze customer satisfaction performance and provide actionable insights through interactive visualizations and KPI tracking.
+
+The CSAT Analytics Dashboard is an interactive Power BI solution developed to analyze customer satisfaction performance and provide actionable business insights through data visualization and KPI monitoring.
 
 ## Business Problem
-Organizations need to monitor customer satisfaction levels and identify factors affecting customer experience. This dashboard helps stakeholders track key metrics, evaluate performance trends, and make data-driven decisions.
+
+Customer satisfaction is a critical performance indicator for any organization. Businesses require a centralized dashboard to monitor customer feedback, track service quality, identify performance trends, and support data-driven decision-making.
 
 ## Objectives
+
 - Monitor Customer Satisfaction (CSAT) performance.
-- Analyze customer feedback trends.
-- Track key business KPIs.
-- Identify areas requiring operational improvement.
-- Support data-driven decision-making.
+- Analyze customer interaction trends.
+- Track operational KPIs.
+- Identify improvement opportunities.
+- Support strategic business decisions.
 
 ## Tools & Technologies
+
 - Power BI
 - DAX
 - Power Query
 - Data Modeling
 - Data Visualization
+- Microsoft Excel
 
 ## Dashboard Features
+
 - Customer Satisfaction Analysis
-- KPI Monitoring
-- Trend Analysis
-- Interactive Visualizations
-- Business Performance Tracking
+- Channel-wise Performance Analysis
+- Call Volume Monitoring
+- Response Time Analysis
+- Geographic Analysis
+- Interactive Filters and Drill-Through Reports
+- KPI Tracking Dashboard
 
 ## Project Files
-- Datamites Project csat.pbix
+
+- CSAT_Analytics_Dashboard.pbix
 - CSAT Analytics PPT.pptx
 - CSAT_Insights.docx
-- Dashboard 1.png
-- Dashboard 2.png
+- Dashboard_1.png
+- Dashboard_2.png
 
 ## Dashboard Preview
 
 ### Dashboard 1
-![Dashboard 1](Dashboard%201.png)
+
+![Dashboard 1](Dashboard_1.png)
 
 ### Dashboard 2
-![Dashboard 2](Dashboard%202.png)
+
+![Dashboard 2](Dashboard_2.png)
 
 ## Key Insights
-- Evaluated customer satisfaction performance across multiple dimensions.
-- Identified trends and patterns affecting customer experience.
-- Monitored critical KPIs through interactive dashboards.
-- Generated insights to support strategic business decisions.
 
-## Outcome
-The dashboard provides a centralized view of customer satisfaction metrics, enabling stakeholders to monitor performance, identify improvement opportunities, and enhance overall customer experience.
+- Evaluated customer satisfaction performance across multiple service channels.
+- Identified customer interaction patterns and trends.
+- Monitored operational KPIs through interactive dashboards.
+- Analyzed response times and service efficiency.
+- Supported business decision-making through data-driven insights.
+
+## Business Impact
+
+This dashboard enables stakeholders to monitor customer satisfaction metrics, identify performance gaps, improve service quality, and enhance overall customer experience through actionable insights.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Calculations
+- KPI Development
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
